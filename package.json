@@ -1,0 +1,22 @@
+{
+  "name": "registrationform",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alpersilistre/RegistrationForm.git"
+  },
+  "author": "Alper Silistre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alpersilistre/RegistrationForm/issues"
+  },
+  "homepage": "https://github.com/alpersilistre/RegistrationForm#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
